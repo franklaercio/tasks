@@ -1,7 +1,8 @@
 Um projeto todo, nele é utilizado Spring Boot, JSF, Maven, MySQL, PrimeFaces,
 JavaScript, JQuery, JUnit 4 e Bootstrap 4.
 
-Os itens implementado  do item 1 foram: A, B, C, D, F, G e H.
+Os itens implementados do item 1 foram: A, B, C, D, F, G e H.
 
 A aplicação deve ser rodada localmente na porta 8080 e deve ser iniciada 
-pelo arquivo TaskApplication.java com um run as Java Application.
+pelo arquivo TaskApplication.java com um run as Java Application. Além disso,
+deve ser alterado no arquivo Application o user e password do banco de dados.
